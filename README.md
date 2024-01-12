@@ -2,6 +2,11 @@
 
 ---
 
+<h3 align="center">Workouts</h3>  
+<p align="center"><img src="images\workouts.png" width="800" height="200"></p>  
+
+---
+
 <h3 align="center">Project Structure</h3>  
 
 ```
