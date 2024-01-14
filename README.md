@@ -12,7 +12,7 @@
 
 ---
 
-<h3 align="center">Postman Testing Results</h3>
+<h3 align="center">API Testing Results</h3>
 
 ---
 
