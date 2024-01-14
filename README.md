@@ -18,7 +18,8 @@
 ---
 
 <h3 align="center">Solution Explaination</h3>  
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/aW03dWBYJ2s?si=UyVXQV33-v6ilyWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>  
+
+[![YouTube Video](link_to_thumbnail_image)](https://www.youtube.com/embed/aW03dWBYJ2s?si=UyVXQV33-v6ilyWs)
 
 ---
 
