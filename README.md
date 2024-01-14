@@ -1,5 +1,5 @@
-<p align="center"><img src="images/fitness-app.gif" width="400" height="300"></p>  
-<h1 align="center">Fitness Tracker Application</h1>
+<h1 align="center">Fitness Tracker Application <br> <br> <p align="center"><img src="images/fitness-app.gif" width="400" height="300"></p> </h1>
+  
 
 <h3 align="center">Problem Statement</h3>
 
