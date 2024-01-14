@@ -1,9 +1,22 @@
 <h1 align="center">Fitness Tracker Application</h1>
 
+<h3 align="center">Problem Statement</h3>
+
+
+<h4 align="center">Workouts</h4>  
+<p align="center"><img src="images\workouts.png" width="800" height="200"></p>  
+
 ---
 
-<h3 align="center">Workouts</h3>  
-<p align="center"><img src="images\workouts.png" width="800" height="200"></p>  
+<h3 align="center">Project UI</h3>
+
+---
+
+<h3 align="center">Postman Testing Results</h3>
+
+---
+
+<h3 align="center">Solution Explaination</h3>  
 
 ---
 
@@ -58,6 +71,7 @@
 
 ---
 
-<h3 align="center">Steps followed to build the project</h3>
+<h3 align="center">Approch for the project</h3>
+
 
 ---
