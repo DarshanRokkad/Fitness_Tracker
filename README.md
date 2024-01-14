@@ -1,10 +1,11 @@
+<p align="center"><img src="images/fitness-app.gif" width="400" height="300"></p>  
 <h1 align="center">Fitness Tracker Application</h1>
 
 <h3 align="center">Problem Statement</h3>
 
 
 <h4 align="center">Workouts</h4>  
-<p align="center"><img src="images\workouts.png" width="800" height="200"></p>  
+<p align="center"><img src="images/workouts.png" width="800" height="200"></p>  
 
 ---
 
