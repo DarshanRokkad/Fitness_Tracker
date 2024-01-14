@@ -19,7 +19,7 @@
 
 <h3 align="center">Solution Explaination</h3>  
 
-[![YouTube Video](images/workouts.png)](https://www.youtube.com/embed/aW03dWBYJ2s?si=UyVXQV33-v6ilyWs)
+[![YouTube Video](images/youtube-logo.png)](https://www.youtube.com/embed/aW03dWBYJ2s?si=UyVXQV33-v6ilyWs)
 
 ---
 
