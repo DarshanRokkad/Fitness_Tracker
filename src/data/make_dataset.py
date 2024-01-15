@@ -94,8 +94,9 @@ sampling = {
     'category' : 'last',
     'set' : 'last'
 }
+
 # resamping is done to take same frequency reading for both accelerator and gyroscope
-df_merged[:1000].resample(rule = '200ms').apply(sampling)
+# df_merged[:1000].resample(rule = '200ms').apply(sampling)
 
 # grouping dataframe by the day to apply resampling for a particular day
 days = [g for n, g in df_merged.groupby(pd.Grouper(freq = 'D'))]
