@@ -1,11 +1,16 @@
 <h1 align="center">Fitness Tracker Application <br> <br> <p align="center"><img src="images/fitness-app.gif" width="400" height="300"></p> </h1>
   
-
 <h3 align="center">Problem Statement</h3>
-
+Gym exercise tracker
 
 <h4 align="center">Workouts</h4>  
 <p align="center"><img src="images/workouts.png" width="800" height="200"></p>  
+
+---
+
+<h3 align="center">Solution Explaination</h3>  
+
+[![YouTube Video](images/youtube-logo.png)](https://www.youtube.com/embed/aW03dWBYJ2s?si=UyVXQV33-v6ilyWs)
 
 ---
 
@@ -14,12 +19,6 @@
 ---
 
 <h3 align="center">API Testing Results</h3>
-
----
-
-<h3 align="center">Solution Explaination</h3>  
-
-[![YouTube Video](images/youtube-logo.png)](https://www.youtube.com/embed/aW03dWBYJ2s?si=UyVXQV33-v6ilyWs)
 
 ---
 
