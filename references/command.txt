@@ -1,0 +1,5 @@
+Commands 
+
+- To create a virtual environment -> conda env create --prefix "E:\PW Skills - Data Science\04_Machine_Learning\Week_ML_Projects\04_Fitness_Tracker\tracking-barbell-exercises" -f "E:\PW Skills - Data Science\04_Machine_Learning\Week_ML_Projects\04_Fitness_Tracker\tracking-barbell-exercises\environment.yml"
+- To activate the environment -> conda activate "E:\PW Skills - Data Science\04_Machine_Learning\Week_ML_Projects\04_Fitness_Tracker\tracking-barbell-exercises"
+- TO check the environment -> 'conda env list'
